@@ -1,0 +1,13 @@
+bcc05bbf306b359df772ff7cb5356aff *DESCRIPTION
+33d553f14e5c42e29961ee9c2fff768a *LICENSE
+fb3439e89f6d84d74a0ebb5ce390a585 *NAMESPACE
+1193ccf3588d18e183f786bdd0563ad2 *NEWS.md
+87959f444cd743536eb7e642aa4374bf *R/windsor_fetch.R
+3207622247836f32ab4d3148eeecc28f *README.md
+e180c2cfa928809d11da9661b15450ca *build/vignette.rds
+87492ce57bf6119228b539c30cab9f1b *inst/doc/windsoraiR.R
+7c54d35cbabc9673bfd6ba5c8f1ef24b *inst/doc/windsoraiR.Rmd
+c48cec4c60c8d8a4cd1fc8b8d92e94ad *inst/doc/windsoraiR.html
+a98c5947be81e46dd29ba06abb87b0e8 *man/figures/README-pressure-1.png
+bb66980fa6e5735eb989924df938a1f5 *man/windsor_fetch.Rd
+7c54d35cbabc9673bfd6ba5c8f1ef24b *vignettes/windsoraiR.Rmd
