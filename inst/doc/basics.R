@@ -4,16 +4,6 @@ knitr::opts_chunk$set(
   comment = "#>"
 )
 
-## ---- echo = FALSE------------------------------------------------------------
-library(windsoraiR)
-my_data <- 
-  windsor_fetch(
-  api_key = "c0eae325c8fb85a0c256da2cd08a27e81972",
-  date_preset = "last_7d",
-  fields = c("source", "campaign", "clicks",
-             "medium", "sessions", "spend")
-)
-
 ## ---- eval = FALSE------------------------------------------------------------
 #  library(windsoraiR)
 #  my_data <-
@@ -23,6 +13,9 @@ my_data <-
 #    fields = c("source", "campaign", "clicks",
 #               "medium", "sessions", "spend")
 #  )
+
+## ---- echo = FALSE------------------------------------------------------------
+library(windsoraiR)
 
 ## -----------------------------------------------------------------------------
 str(my_data)

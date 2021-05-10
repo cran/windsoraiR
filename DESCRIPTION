@@ -1,7 +1,7 @@
 Type: Package
 Package: windsoraiR
 Title: Access the 'Windsor.ai' API
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     c(person(given = "Novica",
              family = "Nakov",
@@ -21,10 +21,11 @@ Encoding: UTF-8
 Language: en-US
 RoxygenNote: 7.1.1
 Suggests: knitr, rmarkdown, dplyr, ggplot2, tidyr, curl
+LazyData: true
 NeedsCompilation: no
-Packaged: 2021-04-28 14:08:48 UTC; novica
+Packaged: 2021-05-06 12:51:59 UTC; novica
 Author: Novica Nakov [aut, cre],
   Windsor.ai [cph]
 Maintainer: Novica Nakov <nnovica@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-04-28 14:30:02 UTC
+Date/Publication: 2021-05-10 11:20:02 UTC
